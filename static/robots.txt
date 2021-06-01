@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /projects
+Disallow: /articles
+
+Sitemap: https://armanabkar.ir/sitemap.xml
